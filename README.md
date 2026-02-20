@@ -124,7 +124,7 @@ I build intelligent systems, scalable web applications, and decentralized soluti
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/cosmwasm" alt="CosmWasm" width="45" height="45" />
+      <img src="https://avatars.githubusercontent.com/u/52079682?s=90&v=4" alt="CosmWasm" width="45" height="45" />
       <br>CosmWasm
     </td>
     <td align="center" width="90">
