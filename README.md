@@ -124,7 +124,7 @@ I build intelligent systems, scalable web applications, and decentralized soluti
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solana" alt="Solana" width="45" height="45" />
+      <img src="https://cdn.simpleicons.org/solana" alt="Solana" width="45" height="45" />
       <br>Solana
     </td>
     <td align="center" width="90">
