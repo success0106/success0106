@@ -124,11 +124,17 @@ I build intelligent systems, scalable web applications, and decentralized soluti
       <br>Rust
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="45" height="45" />
-      <br>Ethereum
+      <img src="https://cdn.simpleicons.org/cosmwasm" alt="CosmWasm" width="45" height="45" />
+      <br>CosmWasm
     </td>
-    <td align="center" width="90">Smart Contracts</td>
-    <td align="center" width="90">Web3.js / Ethers</td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/polkadot" alt="Polkadot" width="45" height="45" />
+      <br>Polkadot
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/cardano" alt="Cardano" width="45" height="45" />
+      <br>Cardano
+    </td>
   </tr>
 </table>
 
@@ -139,7 +145,7 @@ I build intelligent systems, scalable web applications, and decentralized soluti
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/秀夫-田中-4a04713b0"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/秀夫-田中-4a04713b0" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
   <a href="mailto:hideotanaka.jp@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" /></a>
 </p>
 
