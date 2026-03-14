@@ -142,13 +142,4 @@ I build intelligent systems, scalable web applications, and decentralized soluti
 
 ---
 
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/秀夫-田中-4a04713b0" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /></a>
-  <a href="mailto:hideotanaka.jp@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" /></a>
-</p>
-
----
-
 *Building the next generation of intelligent and reliable software.*
